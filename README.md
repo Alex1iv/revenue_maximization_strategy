@@ -19,9 +19,8 @@ It was developed revenue maximization strategy aimed at revenue maximization. Th
 ## Data and methods
 
 The solution flow diagram is shown below
-<p align="center"> 
-<img src="./figures/Scheme.png" width="700"> 
-</p>
+<div align="center">
+<img src="./figures/Scheme.png" width="700">  </div>
 
 
 ## Project structure
