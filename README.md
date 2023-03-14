@@ -20,7 +20,10 @@ It was developed revenue maximization strategy aimed at revenue maximization. Th
 
 The solution flow diagram is shown below.
 
-![text](https://github.com/Alex1iv/revenue_maximization_strategy/figures/Scheme.PNG)  </div>
+<div style="text-align: center;">
+
+![text](https://github.com/Alex1iv/revenue_maximization_strategy/blob/main/figures/Scheme.PNG) 
+</div>
 
 ## Project structure
 
