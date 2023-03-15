@@ -24,10 +24,13 @@ For this assignment the data was synthesized from a real dataset from the bankin
 
 The strategy algorythm is based on pairs of machine learnig models, which are trained on historical purchases of given products. In case the purchase rate to the number of clients is low, the algorythm synthetically increases the minority class to improve the model quality. The flow diagram below illustrates applied algorythm.
 
-<div style="text-align: center">
+<div align="center"> 
 <img src="./figures/scheme.png" width="700">  </div>
+
 <br>
-<div style="text-align: center;">Fig.1 - Algorythm flow diagram</div>
+
+<div align="center"> Fig.1 - Algorythm flow diagram</div>
+
 <br>
 Pre-trained models compute expected revenues from purchases of a given product using following equation:
 
@@ -41,9 +44,10 @@ The mathematical model indicates that proposed marketing strategy is conservativ
 
 The most significant features, impacting the product purchase, could be used to compose the marketing persona as shown below.
 
-<div style="text-align: center">
+<div align="center"> 
 <img src="./figures/fig_5_print.png" width="400">  </div>
-<div style="text-align: center;"> Fig.2 - Most significant features example </div>
+
+<div align="center">  Fig.2 - Most significant features example </div>
 
 
 ## Project structure
