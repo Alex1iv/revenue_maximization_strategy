@@ -59,7 +59,7 @@ The most significant features, impacting the product purchase, could be used to 
 revenue_maximization_strategy
 ├── .gitignore
 ├── config
-│   └── config.json     # configuration setings
+│   └── config.json     # configuration settings
 ├── data                # data archive
 │  
 ├── figures
