@@ -16,13 +16,13 @@ It proposed a marketing strategy aimed at revenue maximization from a direct mar
   
 
 ## Project description
-When a company manager is planning a new marketing campaign, he is interested to do it efficiently: targeting customers with the highest propensity to the product and decreasing expenditures. In addition, he/she needs to calculate the minimum budget for the campaign. From a marketing perspective, it is interesting to identify any changes have emergerging in client propensities. To fulfill these requirements it is possible to learn from purchase history, for instance, whether a client purchased the product or service in the past. 
+When a company manager is planning a new marketing campaign, he is interested to do it efficiently. For instance, targeting customers with the highest propensity to the product and decreasing expenditures. In addition, he/she needs to calculate the minimum budget for the campaign. From a marketing perspective, it is interesting to identify any changes that have emerged in client propensities. To fulfill these requirements it is possible to learn from purchase history, for instance, whether a client purchased the product or service in the past. 
 
 
 ## Data and methods
 For this assignment, the data was synthesized from a real dataset from the banking industry and covers 3 products: consumer loans, mutual funds, and credit cards. 
 
-The strategy algorithm is based on pairs of machine learning models, which are trained on historical purchases of given products. In case the purchase rate to the number of clients is low, the algorithm synthetically increases the minority class to improve the model quality. The flow diagram below illustrates the applied algorythm.
+The strategy algorithm is based on pairs of machine learning models, which are trained on historical purchases of given products. In case the purchase rate to the number of clients is low, the algorithm synthetically increases the minority class to improve the model quality. The flow diagram below illustrates the applied algorithm.
 
 <div align="center"> 
 <img src="./figures/scheme.png" width="700">  </div>
